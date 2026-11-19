@@ -1,0 +1,6 @@
+{
+  "name": "ShopSphere",
+  "description": "A modern, responsive e-commerce storefront featuring curated electronics, home and kitchen gear, workspace essentials, and everyday carry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
